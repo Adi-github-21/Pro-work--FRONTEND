@@ -1,0 +1,18 @@
+
+.link{
+    cursor: pointer;
+    border-radius: 0.8rem;
+    box-shadow: 1px 1px 4px rgb(11, 202, 141);
+}
+
+.gmail{
+    cursor: pointer;
+    border-radius: 0.8rem;
+    box-shadow: 1px 1px 4px rgb(234, 67, 53);   
+}
+.g{
+    height: 3.5rem !important;
+}
+.h{
+    margin: 1px 0.5rem !important;
+}

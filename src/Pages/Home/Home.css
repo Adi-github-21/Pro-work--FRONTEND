@@ -1,0 +1,10 @@
+@media (min-height: 1150px){
+    #HeroHeader{
+        background-image: url('src/Assets/Painter_back2880.jpeg');
+    }
+}
+@media (min-height: 850px){
+    #HeroHeader{
+        height: 100vh;
+    }
+}

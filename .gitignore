@@ -1,0 +1,32 @@
+@'
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# production
+dist/
+build/
+
+# local env files
+.env
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# misc
+coverage/
+'@ | Set-Content -Path .gitignore -Encoding UTF8
